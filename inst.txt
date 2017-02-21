@@ -1,0 +1,21 @@
+1) git pull 
+
+1) clone the repo
+	git clone https://github.com/kelebohile/COMS4037
+
+	Note do this first when working on a wits pc 
+			git config --global https.proxy "http://students\683623:070193lebo@proxyss.wits.ac.za:80"
+
+2)make your changes etc. like a normal folder
+	e.g. creating data.txt
+3) git add *
+
+4) git commit -m "I worked on etc. and added data.txt"
+
+5) git push origin master
+	going to then prompt for your account details
+
+
+use
+ git status 
+to check the repos status
